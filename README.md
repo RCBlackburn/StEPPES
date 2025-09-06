@@ -12,9 +12,6 @@ Welcome to the StEPPES repository! This project is dedicated to hosting and shar
 2. Department of Natural Resources and the Environment, Cornell University, Ithaca, NY, USA
 3. Zoological Society Luujin, Ulaanbaatar, Mongolia
 
-[## Collaborator Organizations]
-- (Add organizations here)
-
 ### Publications
 - Blackburn, Ryan C., Ginger Allington, Nicole Motzer, Seth M. Munson, and Qiongyu Huang. “UAV-Derived Models of Vegetation Characteristics Do Not Transfer to Extreme Drought and Wet Conditions across a Northern Arizona Landscape.” Landscape Ecology 40, no. 3 (2025): 59. https://doi.org/10.1007/s10980-025-02064-6.
 
