@@ -22,9 +22,9 @@ The SteppePY App provides interactive tools and visualizations for exploring the
 
 ## Project Team Members
 - Qiongyu Huang¹ (PI)
-- Ginger Allington² (CO-I)
+- Ginger Allington² (Co-PI)
+- Tungalag Ulambayar³ (Co-PI)
 - Ryan Blackburn¹² (Postdoctoral Researcher)
-- Tungalag Ulambayar³ (Collaborator)
 
 1. Smithsonian’s National Zoo Conservation Biology Institute, Front Royal, Virginia, USA
 2. Department of Natural Resources and the Environment, Cornell University, Ithaca, NY, USA
