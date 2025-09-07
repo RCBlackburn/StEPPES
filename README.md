@@ -1,6 +1,6 @@
 # StEPPES: Spatiotemporal Evaluation of Pastoral Patterns and Ecological Sustainability
 
-Welcome to the StEPPES repository! This project is dedicated to hosting and sharing data related to the spatiotemporal evaluation of pastoral patterns and ecological sustainability. Here you will find datasets, reports, and resources to support research and decision making. 
+Welcome to the StEPPES repository! This project is dedicated to hosting and sharing data related to the spatiotemporal evaluation of pastoral patterns and ecological sustainability. Here you will find datasets, reports, and resources to support research and decision making. This project was funded by National Aeronautics and Space Administration’s Land Cover Land Use Change Grant (No. 80NSSC22K0468).
 
 
 ## Data Access
